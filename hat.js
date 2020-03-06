@@ -31,7 +31,7 @@
     var descriptor = {
         blocks: [
             ['', 'run alarm after %n seconds', 'set_alarm', '2'],
-            ['h', 'when alarm goes off', 'when_alarm'],
+            ['h', 'when HN_GAMEPAD goes off', 'when_alarm'],
         ]
     };
 
